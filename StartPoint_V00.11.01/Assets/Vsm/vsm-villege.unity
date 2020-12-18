@@ -5564,7 +5564,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: http://lifeanddigital.com/pv/lifeanddigital-title-2.mp4
+  m_Url: http://lifeanddigital.jp/pv/lifeanddigital-title-2.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
